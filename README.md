@@ -21,7 +21,24 @@ Eng. de Software in Information | Passionate about technology | Full Stack Dev |
 <br><br>
 
 ### 📈Statistics
+<img 
+align="left"
+all="GitHub Stats"
+height="200"
+style="padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api?username=matheusLustosa23&show_icons=true&theme=dark&include_all_commits=true"
+/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusLustosa23&show_icons=true&theme=dark&include_all_commits=true)
+<img 
+align="left"
+all="GitHub Stats"
+height="200"
+style="padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api?username=matheusLustosa23&show_icons=true&theme=dark&include_all_commits=true](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusLustosa23&hide_progress=true"
+/>
+
+
+
+
 
 
