@@ -20,21 +20,23 @@ Eng. de Software in Information | Passionate about technology | Full Stack Dev |
 
 <br><br>
 
+
 ### 📈Statistics
 <img 
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api?username=matheusLustosa23&show_icons=true&theme=dark&include_all_commits=true"
+align="left"
+alt="GitHub Stats"
+height="200"
+style="padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api?username=matheusLustosa23&show_icons=true&theme=dark&include_all_commits=true"
 />
 
 <img 
-  align="left"
-  alt="Top Languages"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusLustosa23&theme=dark&custom_title=Technology's&langs_count=9"
+align="left"
+alt="GitHub Stats"
+height="200"
+style="padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusLustosa23&theme=dark&custom_title=technology's&langs_count=9"
 />
-
 
 
 
