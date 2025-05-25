@@ -24,7 +24,9 @@ Eng. de Software in Information | Passionate about technology | Full Stack Dev |
 
 
 ### 📈Statistics
-<img 
+
+<p>
+  <img 
 align="left"
 alt="GitHub Stats"
 height="200"
@@ -41,6 +43,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusLusto
 />
 
 
+
+</p>
 
 
 
