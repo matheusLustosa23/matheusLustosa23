@@ -31,7 +31,7 @@ align="left"
 alt="GitHub Stats"
 height="200"
 style="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api?username=matheusLustosa23&show_icons=true&theme=dark&include_all_commits=true&cache_seconds=21600"
+src="https://github-readme-stats.vercel.app/api?username=matheusLustosa23&show_icons=true&theme=dark&include_all_commits=true"
 />
 
 <img 
