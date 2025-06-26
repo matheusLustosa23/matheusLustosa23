@@ -1,6 +1,6 @@
 ## ╰(*°▽°*)╯ Matheus Lustosa ^_^
 **`FullStack Developer`**<br>
-Eng. de Software in Information | Passionate about technology | Full Stack Dev | Java, Python, Django, Spring, JS, MySQL |  MySQL, PostgreSQL, Bootstrap, CSS | Git, GitHub |Always looking to evolve 🚀
+Eng. de Software in Information | Passionate about technology | Full Stack Dev | Java, Python, Django, Spring, JS, MySQL |  MySQL, PostgreSQL, React,Tailwind ,CSS | Git, GitHub |Always looking to evolve 🚀
 
 ---
 
